@@ -5,28 +5,27 @@ If you run into any issues or something doesn’t work, don’t worry — just r
 
 ---
 
-## 🛠️ 1. Install Required Software
+## 1. Install Required Software
 - **DUST** — make sure the game is installed.  
-- **MelonLoader** — download from GitHub (version 0.7.2).
+- **[MelonLoader](https://github.com/LavaGang/MelonLoader/releases/tag/0.7.2)** — download version 0.7.2.  
+- **[.NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)** — required for MelonLoader.
 
-## 🎮 2. Prepare the Game
+## 2. Prepare the Game
 - Launch the game at least once, then close it.  
 - In MelonLoader, select `Dust.exe`.
 
-## ⚙️ 3. Install MelonLoader
+## 3. Start patch
 - Click **Install** and wait for it to finish.  
-- Launch the game — a console will appear (this is normal).  
-- The console should show the installation of **.NET 6**.  
-- If there’s an error, download and install **.NET 6** from the official website.
+- Launch the game — this step will trigger the .NET installation if needed.
 
-## 📂 4. Install the Mod
+## 4. Install the Mod
 - Download the mod `.dll` file and place it in the `Mods` folder.  
-- Launch the game and open the console.  
-- If the mod works, you will see information about it.  
-- Errors like **OpenXR** can be ignored — they do not affect mods.
+- Launch the game.
 
-## ✅ 5. Verify Mod Functionality
+## 5. Verify Mod Functionality
+- Open the console in the game.  
 - The console should display information about the mod.  
+- Errors like **OpenXR** can be ignored — they do not affect mods.  
 - If nothing appears, double-check the previous steps.
 
 ---
