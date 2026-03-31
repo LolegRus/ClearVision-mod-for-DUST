@@ -23,7 +23,7 @@ If you run into any issues or something doesn’t work, don’t worry — just r
 - Launch the game.
 
 ## 5. Verify Mod Functionality
-- Open the console in the game.  
+- Open the console.  
 - The console should display information about the mod.  
 - Errors like **OpenXR** can be ignored — they do not affect mods.  
 - If nothing appears, double-check the previous steps.
