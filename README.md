@@ -7,7 +7,7 @@ If you run into any issues or something doesn’t work, don’t worry — just r
 
 ## 1. Install Required Software
 - **DUST** — make sure the game is installed.  
-- **[MelonLoader](https://github.com/LavaGang/MelonLoader/releases/tag/0.7.2)** — download version 0.7.2.  
+- **[MelonLoader](https://github.com/LavaGang/MelonLoader/releases/tag/v0.7.2)** — download version 0.7.2.  
 - **[.NET 6](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)** — required for MelonLoader.
 
 ## 2. Prepare the Game
