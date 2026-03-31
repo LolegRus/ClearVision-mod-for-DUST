@@ -19,6 +19,7 @@ If you run into any issues or something doesn’t work, don’t worry — just r
 - Launch the game — this step will trigger the .NET installation if needed.
 
 ## 4. Install the Mod
+- [Download Clear_Vision.dll](https://github.com/LolegRus/ClearVision-mod-for-DUST/releases/latest/download/Clear_Vision.dll)
 - Download the mod `.dll` file and place it in the `Mods` folder.  
 - Launch the game.
 
